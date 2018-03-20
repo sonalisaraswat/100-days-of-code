@@ -8,9 +8,21 @@ Today's Progress: Started off with my first code in this. A simple program in Py
 [My solution](https://github.com/sonalisaraswat/My-Programs/tree/master/code_chef_programs)
 
 
+
+
 Day 2: March 19, 2018 
 
 Today's Progress:Another program in Python, from Code Chef.
 
 **Link to work:**[Chef and cook off](https://www.codechef.com/problems/CCOOK)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/chefandcookof.py)
+
+
+
+
+Day 3: March 20,2018
+
+Today's progress:Solved a question from codechef in C++.
+
+**Link to work:**[Jumping in Hills (question)](https://www.codechef.com/problems/HILLS)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/jumpinginhill.cpp)
