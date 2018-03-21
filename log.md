@@ -26,3 +26,14 @@ Today's progress:Solved a question from codechef in C++.
 
 **Link to work:**[Jumping in Hills (question)](https://www.codechef.com/problems/HILLS)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/jumpinginhill.cpp)
+
+
+
+
+
+Day 4: March 21, 2018 
+
+Today's Progress:Program in Python, from Code Chef.
+
+**Link to work:**[Coder Life Matters (question)](https://www.codechef.com/problems/CODERLIF)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/coderlifematter.py)
