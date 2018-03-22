@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-**Day 1 **: March 18, 2018 
+**Day 1**: March 18, 2018 
 
 Today's Progress: Started off with my first code in this. A simple program in Python, the language I have just started learning.
 
@@ -20,7 +20,7 @@ Today's Progress:Another program in Python, from Code Chef.
 
 
 
-**Day 3 **: March 20,2018
+**Day 3**: March 20,2018
 
 Today's progress:Solved a question from codechef in C++.
 
@@ -31,7 +31,7 @@ Today's progress:Solved a question from codechef in C++.
 
 
 
-**Day 4 **: March 21, 2018 
+**Day 4**: March 21, 2018 
 
 Today's Progress:Program in Python, from Code Chef.
 
@@ -41,7 +41,7 @@ Today's Progress:Program in Python, from Code Chef.
 
 
 
-**Day 5 **: March 22,2018
+**Day 5**: March 22,2018
 
 Today's Progress: Program in Python, from Code Chef.
 
