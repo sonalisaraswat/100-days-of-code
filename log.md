@@ -48,3 +48,13 @@ Today's Progress: Started off with my first code in this. A simple program in Py
 
 **Link to work:**[Life, the Universe, and Everything](https://www.codechef.com/problems/TEST)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/life_the_universe_and_everything.py)
+
+
+
+
+### Day 6: March 23,2018
+
+**Today's Progress:** Program in python, from Code Chef.
+
+**Link's to work:**[Chef And His Characters](https://www.codechef.com/problems/CHEFCHR)
+[  My solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Chef_and_his_characters.py)
