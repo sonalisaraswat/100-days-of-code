@@ -56,5 +56,14 @@ Today's Progress: Started off with my first code in this. A simple program in Py
 
 **Today's Progress:** Program in python, from Code Chef.
 
-**Link's to work:**[Chef And His Characters](https://www.codechef.com/problems/CHEFCHR)
+**Links to work:**[Chef And His Characters](https://www.codechef.com/problems/CHEFCHR)
 [  My solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Chef_and_his_characters.py)
+
+
+
+
+### Day 7: March 24,2018
+
+**Today's Progress:** Program in Python,from code chef.
+**Links to work:**[Chef Judges a Competition](https://www.codechef.com/problems/CO92JUDG)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Chef_judges_a_competition.py)
