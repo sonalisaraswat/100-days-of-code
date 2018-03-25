@@ -35,6 +35,7 @@ Today's Progress: Started off with my first code in this. A simple program in Py
 
 **Today's Progress**:Program in Python, from Code Chef.
 
+
 **Link to work:**[Coder Life Matters (question)](https://www.codechef.com/problems/CODERLIF)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/coderlifematter.py)
 
@@ -65,5 +66,16 @@ Today's Progress: Started off with my first code in this. A simple program in Py
 ### Day 7: March 24,2018
 
 **Today's Progress:** Program in Python,from code chef.
+
+
 **Links to work:**[Chef Judges a Competition](https://www.codechef.com/problems/CO92JUDG)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Chef_judges_a_competition.py)
+
+
+
+### Day 8: March 25,2018
+
+**Today's Progress:**Program in Python,from Code Chef.
+
+**Links to work:**[Coupon System](https://www.codechef.com/problems/COUPSYS)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/coupon_system.py)
