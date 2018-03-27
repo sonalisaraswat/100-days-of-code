@@ -75,7 +75,7 @@ Today's Progress: Started off with my first code in this. A simple program in Py
 
 ### Day 8: March 25,2018
 
-**Today's Progress:**Program in Python,from Code Chef.
+**Today's Progress:** Program in Python,from Code Chef.
 
 **Links to work:**[Coupon System](https://www.codechef.com/problems/COUPSYS)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/coupon_system.py)
@@ -85,7 +85,7 @@ Today's Progress: Started off with my first code in this. A simple program in Py
 
 ### Day 9: March 26,2018
 
-***Today's Progress:* Program in Python, from Code chef.
+**Today's Progress:** Program in Python, from Code chef.
 
 **Links to work:**[J - Reached Safely Or Not](https://www.codechef.com/problems/ZUBREACH)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/J_reached_safetly_or_not.py)
@@ -96,7 +96,7 @@ Today's Progress: Started off with my first code in this. A simple program in Py
 ### Day 10: March 27,2018
 
 
-**Today's Progress:**Program in Python, from Code Chef.
+**Today's Progress:** Program in Python, from Code Chef.
 
 **Links to work:**[Ordering teams](https://www.codechef.com/problems/ORDTEAMS)
 [My SOlution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Ordering_team.py)
