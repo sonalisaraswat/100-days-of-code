@@ -100,3 +100,14 @@ Today's Progress: Started off with my first code in this. A simple program in Py
 
 **Links to work:**[Ordering teams](https://www.codechef.com/problems/ORDTEAMS)
 [My SOlution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Ordering_team.py)
+
+
+
+
+### Day 11: March 28,2018
+
+
+**Today's Progress:** Program in Python, from Code Chef.
+
+**Links to work:** [Chef and Glove](https://www.codechef.com/problems/CHEGLOVE)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Chef_and_glove.py)
