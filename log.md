@@ -1,8 +1,10 @@
 # 100 Days Of Code - Log
 
+## A program a day, keeps boredom away.;)
+
 ### Day 1: March 18, 2018 
 
-Today's Progress: Started off with my first code in this. A simple program in Python, the language I have just started learning.
+**Today's Progress:** Started off with my first code in this. A simple program in Python, the language I have just started learning.
 
 **Link to work:** [Skyscraper Equilibrium](https://www.codechef.com/problems/SKYSCR)
 [My solution](https://github.com/sonalisaraswat/My-Programs/tree/master/code_chef_programs)
@@ -123,3 +125,15 @@ Today's Progress: Started off with my first code in this. A simple program in Py
 
 **Links to work:**[A big Sale](https://www.codechef.com/problems/BIGSALE)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/A_big_sale.py)
+
+
+
+
+
+### Day 13: March 30,2018
+
+
+**Today's Progress:** Program in Python, from Code Chef.
+
+**Links to work:**[Survive in chocoland](https://www.codechef.com/problems/SURVIVE)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/surviveinchoco2.py)
