@@ -137,3 +137,14 @@
 
 **Links to work:**[Survive in chocoland](https://www.codechef.com/problems/SURVIVE)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/surviveinchoco2.py)
+
+
+
+
+### Day 14: March 31,2018
+
+
+**Today's Progress:** Program in Python, from Code Chef.
+
+**Links to work:**[Chef and Pick Digit](https://www.codechef.com/problems/CHEFPDIG)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/chefandpick2.py)
