@@ -148,3 +148,15 @@
 
 **Links to work:**[Chef and Pick Digit](https://www.codechef.com/problems/CHEFPDIG)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/chefandpick2.py)
+
+
+
+
+
+### Day 15: April 1,2018
+
+
+**Today's Progress:** Program in Python, from Code Chef.
+
+**Links to work:**[Walk](https://www.codechef.com/problems/WALK)
+[My SOlution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/walk.py)
