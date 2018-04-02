@@ -160,3 +160,14 @@
 
 **Links to work:**[Walk](https://www.codechef.com/problems/WALK)
 [My SOlution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/walk.py)
+
+
+
+
+### Day 16: April 2,2018
+
+
+**Today's Progress:** Program in Python, from Code Chef.
+
+**Links to work:**[Smart Strategy](https://www.codechef.com/LTIME54/problems/SMRSTR)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/smart_strategy.py)
