@@ -171,3 +171,14 @@
 
 **Links to work:**[Smart Strategy](https://www.codechef.com/LTIME54/problems/SMRSTR)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/smart_strategy.py)
+
+
+
+
+### Day 17: April 3,2018
+
+
+**Today's Progress:** Program in Python, from Code Chef.
+
+**Links to work:**[Chef and binary operation ](https://www.codechef.com/problems/BINOP)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Chef_and_binary_operations.py)
