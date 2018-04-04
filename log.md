@@ -182,3 +182,15 @@
 
 **Links to work:**[Chef and binary operation ](https://www.codechef.com/problems/BINOP)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Chef_and_binary_operations.py)
+
+
+
+
+
+### Day 18: April 4,2018
+
+
+**Today's Progress:** Program in Python, from Code Chef.
+
+**Links to work:**[Villages and Tribes__ ](https://www.codechef.com/problems/VILTRIBE)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/VILLAGE2.py)
