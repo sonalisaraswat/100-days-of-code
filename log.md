@@ -204,5 +204,7 @@
 **Today's Progress:** 3 small Programs in Python, from Code Chef.
 
 **Links to work:**[Lucky Four__](https://www.codechef.com/problems/LUCKFOUR)[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Lucky_four.py)
+
 **Links to work:**[Finding Square root__](https://www.codechef.com/problems/FSQRT)[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Finding_square_roots.py)
+
 **Links to work:**[Chef And Operators__](https://www.codechef.com/problems/CHOPRT)[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Chef_and_operators.py)
