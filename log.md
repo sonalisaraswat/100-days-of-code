@@ -208,3 +208,16 @@
 **Links to work:**[Finding Square root__](https://www.codechef.com/problems/FSQRT)[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Finding_square_roots.py)
 
 **Links to work:**[Chef And Operators__](https://www.codechef.com/problems/CHOPRT)[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Chef_and_operators.py)
+
+
+
+
+### Day 20: April 6,2018
+
+
+**Today's Progress:** 2 small Programs in Python, from Code Chef.
+
+**Links to work:**[Chef and two strings__](https://www.codechef.com/LTIME25/problems/CHEFSTLT)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Chef_and_two_strings.py)
+
+[Puppy and sum__](https://www.codechef.com/problems/PPSUM)[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Puppy_and_sum.py)
