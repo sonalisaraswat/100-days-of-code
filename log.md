@@ -224,3 +224,13 @@
 
 
 [Puppy and sum__](https://www.codechef.com/problems/PPSUM)[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Puppy_and_sum.py)
+
+
+
+
+### Day 21: April 7,2018
+
+**Today's Progress:**  Programs in Python, from Code Chef.
+
+**Links to work:**[Tourist Translations_-](https://www.codechef.com/MARCH13/problems/TOTR/)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/tourist_translation.py)
