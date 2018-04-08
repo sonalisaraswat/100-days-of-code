@@ -201,7 +201,7 @@
 ### Day 19: April 5,2018
 
 
-**Today's Progress:** 3 small Programs in Python, from Code Chef.
+**Today's Progress:** 3 small programs in Python, from Code Chef.
 
 **Links to work:**[Lucky Four__](https://www.codechef.com/problems/LUCKFOUR)[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Lucky_four.py)
 
@@ -217,7 +217,7 @@
 
 ### Day 20: April 6,2018
 
-**Today's Progress:** 2 small Programs in Python, from Code Chef.
+**Today's Progress:** 2 small programs in Python, from Code Chef.
 
 **Links to work:**[Chef and two strings__](https://www.codechef.com/LTIME25/problems/CHEFSTLT)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Chef_and_two_strings.py)
@@ -230,7 +230,21 @@
 
 ### Day 21: April 7,2018
 
-**Today's Progress:**  Programs in Python, from Code Chef.
+**Today's Progress:**  Program in Python, from Code Chef.
 
 **Links to work:**[Tourist Translations_-](https://www.codechef.com/MARCH13/problems/TOTR/)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/tourist_translation.py)
+
+
+
+
+### Day 22: April 8,2018
+
+**Today's Progress:** 2 programs in Python, from Code Chef.
+
+**Links to work:**[Uniform Strings__](https://www.codechef.com/problems/STRLBP)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Uniform_Strings.py)
+
+
+[Smallest number of notes](https://www.codechef.com/problems/FLOW005)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/smallest_number_of-notes.py)
