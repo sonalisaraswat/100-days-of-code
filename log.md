@@ -255,7 +255,11 @@
 
 ### Day 23: April 9,2018
 
-**Today's Progress:** Programs in Python, from Code Chef.
+**Today's Progress:** 2 programs in Python, from Code Chef.
 
 **Links to work:**[Good and bad persons__](https://www.codechef.com/problems/GOODBAD)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Good_and_bad_persons.py)
+
+
+[Chef and friends__](https://www.codechef.com/problems/FRK)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/chef_and_friends.py)
