@@ -201,7 +201,7 @@
 ### Day 19: April 5,2018
 
 
-**Today's Progress:** 3 small programs in Python, from Code Chef.
+**Today's Progress:** 3 programs in Python, from Code Chef.
 
 **Links to work:**[Lucky Four__](https://www.codechef.com/problems/LUCKFOUR)[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Lucky_four.py)
 
@@ -217,7 +217,7 @@
 
 ### Day 20: April 6,2018
 
-**Today's Progress:** 2 small programs in Python, from Code Chef.
+**Today's Progress:** 2 programs in Python, from Code Chef.
 
 **Links to work:**[Chef and two strings__](https://www.codechef.com/LTIME25/problems/CHEFSTLT)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Chef_and_two_strings.py)
@@ -263,3 +263,14 @@
 
 [Chef and friends__](https://www.codechef.com/problems/FRK)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/chef_and_friends.py)
+
+
+
+
+
+### Day 24: April 10,2018
+
+**Today's Progress:** Program in Python, from Code Chef.
+
+**Links to work:**[D-Triangle Count__](https://www.codechef.com/problems/ZUBTRCNT)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/D_count_triangle.py)
