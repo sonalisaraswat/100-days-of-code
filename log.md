@@ -274,3 +274,13 @@
 
 **Links to work:**[D-Triangle Count__](https://www.codechef.com/problems/ZUBTRCNT)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/D_count_triangle.py)
+
+
+
+
+### Day 25: April 11,2018
+
+**Today's Progress:** Program in Python, from Code Chef.
+
+**Links to work:**[Random Pair__](https://www.codechef.com/problems/RNDPAIR)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Random_pair.py)
