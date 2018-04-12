@@ -284,3 +284,13 @@
 
 **Links to work:**[Random Pair__](https://www.codechef.com/problems/RNDPAIR)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Random_pair.py)
+
+
+
+
+### Day 26: April 12,2018
+
+**Today's Progress:** Program in Python, from Code Chef.
+
+**Links to work:**[Days in month__](https://www.codechef.com/problems/NW1)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Days_in_month.py)
