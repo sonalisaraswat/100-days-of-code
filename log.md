@@ -294,3 +294,14 @@
 
 **Links to work:**[Days in month__](https://www.codechef.com/problems/NW1)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Days_in_month.py)
+
+
+
+
+
+### Day 27: April 13,2018
+
+**Today's Progress:** Program in Python, from Code Chef.
+
+**Links to work:**[Football Match__](https://www.codechef.com/problems/FBMT)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Football_match.py)
