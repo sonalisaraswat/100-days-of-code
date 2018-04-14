@@ -305,3 +305,13 @@
 
 **Links to work:**[Football Match__](https://www.codechef.com/problems/FBMT)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Football_match.py)
+
+
+
+
+## Day 27: April 13,2018
+
+**Today's Progress:** Program in Python, from Code Chef.
+
+**Links to work:**[Tweedle-Dee and Tweedle-Dum __](https://www.codechef.com/problems/TWEED)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Tweedel_dee_and%20dum.py)
