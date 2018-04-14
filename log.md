@@ -309,7 +309,7 @@
 
 
 
-## Day 27: April 13,2018
+### Day 28: April 14,2018
 
 **Today's Progress:** Program in Python, from Code Chef.
 
