@@ -315,3 +315,14 @@
 
 **Links to work:**[Tweedle-Dee and Tweedle-Dum __](https://www.codechef.com/problems/TWEED)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Tweedel_dee_and%20dum.py)
+
+
+
+
+
+### Day 29: April 15,2018
+
+**Today's Progress:** Program in Python, from Code Chef.
+
+**Links to work:**[Watson asks Does Permutation Exist __](https://www.codechef.com/problems/PERMEXIS)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/Watson_asks_does_permutation_exsists.py)
