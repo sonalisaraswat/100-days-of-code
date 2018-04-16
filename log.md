@@ -336,9 +336,9 @@
 **Today's Progress:** 3 programs from Kaivalya'18, completed within an hour
 
 **Links to work:**[Patterns__](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-pattern-c9e759e9/)
-[My Solution]()
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/Kaivalya-18/Pattern.py)
 
-[Strange Game__](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/strange-game-1-7e758acb-1bff10f0/)[My Solution]()
+[Strange Game__](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/strange-game-1-7e758acb-1bff10f0/)[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/Kaivalya-18/strange_game.py)
 
 [Maximize the earning__](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/maximize-the-earning-137963bc-323025a6/)
-[My SOlution]()
+[My SOlution](https://github.com/sonalisaraswat/My-Programs/blob/master/Kaivalya-18/neopolean.cpp)
