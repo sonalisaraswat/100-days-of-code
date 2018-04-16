@@ -326,3 +326,19 @@
 
 **Links to work:**[Watson asks Does Permutation Exist __](https://www.codechef.com/problems/PERMEXIS)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/Watson_asks_does_permutation_exsists.py)
+
+
+
+
+
+### Day 30: April 16,2018
+
+**Today's Progress:** 3 programs from Kaivalya'18, completed within an hour
+
+**Links to work:**[Patterns__](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-pattern-c9e759e9/)
+[My Solution]()
+
+[Strange Game__](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/strange-game-1-7e758acb-1bff10f0/)[My Solution]()
+
+[Maximize the earning__](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/maximize-the-earning-137963bc-323025a6/)
+[My SOlution]()
