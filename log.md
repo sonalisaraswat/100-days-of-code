@@ -342,3 +342,13 @@
 
 [Maximize the earning__](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/maximize-the-earning-137963bc-323025a6/)
 [My SOlution](https://github.com/sonalisaraswat/My-Programs/blob/master/Kaivalya-18/neopolean.cpp)
+
+
+
+
+### Day 31: April 17,2018
+
+**Today's Progress:** Programs in python, from code chef.
+
+**Links to work:**[Sebi and Highway__](https://www.codechef.com/problems/SEBIHWY)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Sebi_and_the_highway.py)
