@@ -352,3 +352,12 @@
 
 **Links to work:**[Sebi and Highway__](https://www.codechef.com/problems/SEBIHWY)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Sebi_and_the_highway.py)
+
+
+
+
+### Day 32: April 18,2018
+
+**Today's Progress:** Programs in python, from code chef.
+
+**Links to work:**
