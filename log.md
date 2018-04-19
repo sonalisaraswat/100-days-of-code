@@ -363,3 +363,12 @@
 **Links to work:**[Ciel and receipt__](https://www.codechef.com/problems/CIELRCPT)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Ciel_and_receipt.py)
 
+
+
+
+### Day 33: April 19,2018
+
+**Today's Progress:** Programs in python, from code chef.
+
+**Links to work:**[Workers__](https://www.codechef.com/problems/CHEFWORK)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Workers.py)
