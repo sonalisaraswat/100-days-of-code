@@ -372,3 +372,14 @@
 
 **Links to work:**[Workers__](https://www.codechef.com/problems/CHEFWORK)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Workers.py)
+
+
+
+
+
+### Day 34: April 20,2018
+
+**Today's Progress:** Programs in python, from code chef.
+
+**Links to work:**[Hurdle__](https://www.hackerearth.com/challenge/college/gambit-18/algorithm/6aa8b184a2f5474e8ae4be5056a47826/)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/Kaivalya-18/Hurdle.py)
