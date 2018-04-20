@@ -383,3 +383,7 @@
 
 **Links to work:**[Hurdle__](https://www.hackerearth.com/challenge/college/gambit-18/algorithm/6aa8b184a2f5474e8ae4be5056a47826/)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/Kaivalya-18/Hurdle.py)
+
+
+[Parallel Universe__](https://www.hackerearth.com/challenge/college/gambit-18/algorithm/4bdcc5d1cd9348538927c4ed5a89c18d/)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/Kaivalya-18/Parallel_universe.py)
