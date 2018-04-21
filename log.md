@@ -379,7 +379,7 @@
 
 ### Day 34: April 20,2018
 
-**Today's Progress:** Programs in python, from code chef.
+**Today's Progress:** 2 programs from Kaivalya'18, in Python .
 
 **Links to work:**[Hurdle__](https://www.hackerearth.com/challenge/college/gambit-18/algorithm/6aa8b184a2f5474e8ae4be5056a47826/)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/Kaivalya-18/Hurdle.py)
@@ -387,3 +387,14 @@
 
 [Parallel Universe__](https://www.hackerearth.com/challenge/college/gambit-18/algorithm/4bdcc5d1cd9348538927c4ed5a89c18d/)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/Kaivalya-18/Parallel_universe.py)
+
+
+
+
+### Day 35: April 21,2018
+
+**Today's Progress:** A programs in Python, from codechef.
+
+**Links to work:**[MAX MEX__](https://www.codechef.com/problems/MEX)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/Max_MEX.py)
+
