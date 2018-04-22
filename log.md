@@ -398,3 +398,14 @@
 **Links to work:**[MAX MEX__](https://www.codechef.com/problems/MEX)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/Max_MEX.py)
 
+
+
+
+
+### Day 36: April 22,2018
+
+**Today's Progress:** A programs in Python, from codechef.
+
+**Links to work:**[Version Control System__](https://www.codechef.com/problems/VCS)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/VCS.py)
+
