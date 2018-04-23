@@ -409,3 +409,13 @@
 **Links to work:**[Version Control System__](https://www.codechef.com/problems/VCS)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/VCS.py)
 
+
+
+
+### Day 37: April 23,2018
+
+**Today's Progress:** 2 programs in Python, from codechef.
+
+**Links to work:**[Chef and Remissness__](https://www.codechef.com/problems/REMISS)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Chef_and_remissness.py)
+
