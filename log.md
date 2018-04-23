@@ -419,3 +419,7 @@
 **Links to work:**[Chef and Remissness__](https://www.codechef.com/problems/REMISS)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Chef_and_remissness.py)
 
+
+
+[Mahasena__](https://www.codechef.com/problems/AMR15A)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Mahasena.py)
