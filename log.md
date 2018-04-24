@@ -423,3 +423,18 @@
 
 [Mahasena__](https://www.codechef.com/problems/AMR15A)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Mahasena.py)
+
+
+
+
+
+
+### Day 38: April 24,2018
+
+**Today's Progress:** 2 programs in Python, from codechef.
+
+**Links to work:**[Grade the steel__](https://www.codechef.com/problems/GTS01)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Grade_the_steel.py)
+
+[Bear and ladder__](https://www.codechef.com/problems/BRLADDER)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Bear_and_ladder.py)
