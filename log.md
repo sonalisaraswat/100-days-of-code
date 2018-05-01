@@ -438,3 +438,13 @@
 
 [Bear and ladder__](https://www.codechef.com/problems/BRLADDER)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Bear_and_ladder.py)
+
+
+
+
+### Day 39: April 25,2018
+
+**Today's Progress:** A programs in Python, from codechef.
+
+**Links to work:**[Ceil and a-b problem__](https://www.codechef.com/problems/CIELAB)
+[My SOlution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/Ciel_and_ab_problem.py)
