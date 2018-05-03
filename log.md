@@ -448,3 +448,23 @@
 
 **Links to work:**[Ceil and a-b problem__](https://www.codechef.com/problems/CIELAB)
 [My SOlution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/Ciel_and_ab_problem.py)
+
+
+
+
+### Day 40: April 26,2018
+
+**Today's Progress:** A programs in Python, from codechef.
+
+**Links to work:**[Processing a string__](https://www.codechef.com/problems/KOL15A)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/Processing_a_string.py)
+
+
+
+
+### Day 41: April 27,2018
+
+**Today's Progress:** A programs in Python, from codechef.
+
+**Links to work:**[Bear and candies 123__](https://www.codechef.com/problems/CANDY123)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Bear_and_candies123.py)
