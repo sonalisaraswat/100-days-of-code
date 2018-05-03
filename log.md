@@ -468,3 +468,13 @@
 
 **Links to work:**[Bear and candies 123__](https://www.codechef.com/problems/CANDY123)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Bear_and_candies123.py)
+
+
+
+
+### Day 42: April 28,2018
+
+**Today's Progress:** A programs in Python, from codechef.
+
+**Links to work:**[Little elephant and permutation__](https://www.codechef.com/problems/LEPERMUT)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/Little_Elephant_and_permutation.py)
