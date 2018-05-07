@@ -500,3 +500,60 @@
 
 **Links to work:**[Forgotten Language__](https://www.codechef.com/problems/FRGTNLNG)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Forgotten_language.py)
+
+
+
+
+### Day 45: May 1,2018
+
+**Today's Progress:** A programs in Python, from codechef.
+
+**Links to work:**[Valid Triangles__](https://www.codechef.com/problems/FLOW013)
+[My Solution]()
+
+[Second Largest](https://www.codechef.com/problems/FLOW017)
+[My Solution]()
+
+
+
+
+### Day 46: May 2,2018
+
+**Today's Progress:** A programs in Python, from codechef.
+
+**Links to work:**[Sum of digits__](https://www.codechef.com/problems/FLOW006)
+[My Solution]()
+
+[Primality test__](https://www.codechef.com/problems/PRB01)
+[My Solution]()
+
+
+
+
+### Day 47: May 3,2018
+
+**Today's Progress:** A programs in Python, from codechef.
+
+**Links to work:**[Kitchen Timetable__](https://www.codechef.com/problems/KTTABLE)
+[My Solution]()
+
+
+
+
+### Day 48: May 4,2018
+
+**Today's Progress:** A programs in Python, from codechef.
+
+**Links to work:**[Download File__](https://www.codechef.com/problems/DWNLD)
+[My Solution]()
+
+
+
+
+
+### Day 49: May 5,2018
+
+**Today's Progress:** A programs in Python, from codechef.
+
+**Links to work:**[Help lost Robot](https://www.codechef.com/problems/ICPC16A)
+[My Solution]()
