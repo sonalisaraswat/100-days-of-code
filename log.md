@@ -489,3 +489,14 @@
 
 **Links to work:**[Minimum Good Permutations__](https://www.codechef.com/problems/MINPERM)
 [My SOlution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/Minimum_good_permutation.py)
+
+
+
+
+
+### Day 44: April 30,2018
+
+**Today's Progress:** A programs in Python, from codechef.
+
+**Links to work:**[Forgotten Language__](https://www.codechef.com/problems/FRGTNLNG)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Forgotten_language.py)
