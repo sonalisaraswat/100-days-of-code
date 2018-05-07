@@ -509,10 +509,10 @@
 **Today's Progress:** A programs in Python, from codechef.
 
 **Links to work:**[Valid Triangles__](https://www.codechef.com/problems/FLOW013)
-[My Solution]()
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Valid_triangles.py)
 
 [Second Largest](https://www.codechef.com/problems/FLOW017)
-[My Solution]()
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Second_largest.py)
 
 
 
@@ -522,10 +522,10 @@
 **Today's Progress:** A programs in Python, from codechef.
 
 **Links to work:**[Sum of digits__](https://www.codechef.com/problems/FLOW006)
-[My Solution]()
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Sum_of_digits.py)
 
 [Primality test__](https://www.codechef.com/problems/PRB01)
-[My Solution]()
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Primality_test.py)
 
 
 
@@ -535,7 +535,7 @@
 **Today's Progress:** A programs in Python, from codechef.
 
 **Links to work:**[Kitchen Timetable__](https://www.codechef.com/problems/KTTABLE)
-[My Solution]()
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Ktchen_timetable.py)
 
 
 
@@ -545,7 +545,7 @@
 **Today's Progress:** A programs in Python, from codechef.
 
 **Links to work:**[Download File__](https://www.codechef.com/problems/DWNLD)
-[My Solution]()
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Download_file.py)
 
 
 
@@ -556,4 +556,4 @@
 **Today's Progress:** A programs in Python, from codechef.
 
 **Links to work:**[Help lost Robot](https://www.codechef.com/problems/ICPC16A)
-[My Solution]()
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Help_lost_robot.py)
