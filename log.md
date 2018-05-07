@@ -478,3 +478,14 @@
 
 **Links to work:**[Little elephant and permutation__](https://www.codechef.com/problems/LEPERMUT)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/Little_Elephant_and_permutation.py)
+
+
+
+
+
+### Day 43: April 29,2018
+
+**Today's Progress:** A programs in Python, from codechef.
+
+**Links to work:**[Minimum Good Permutations__](https://www.codechef.com/problems/MINPERM)
+[My SOlution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/Minimum_good_permutation.py)
