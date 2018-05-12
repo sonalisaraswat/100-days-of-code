@@ -567,6 +567,8 @@
 
 **Links to work:**[Tanu and head-bob__](https://www.codechef.com/problems/HEADBOB)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Tanu_and_headbob.py)
+
+
 [TWO vs TEN](https://www.codechef.com/problems/TWOVSTEN)
 [My SOlution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/TWO_VS_TEN.py)
 
@@ -579,3 +581,24 @@
 
 **Links to work:**[Devu and friendship test__](https://www.codechef.com/problems/CFRTEST)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Devu_and_friendship_testing.py)
+
+
+
+
+### Day 52: May 8,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**[Broken Telephone__](https://www.codechef.com/problems/BROKPHON)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/Broken_telephone.py)
+
+
+
+
+
+### Day 53: May 9,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**[Distinct characters subsequence](https://www.codechef.com/problems/DISCHAR)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/Distinct_characters_subsequence.py)
