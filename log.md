@@ -444,7 +444,7 @@
 
 ### Day 39: April 25,2018
 
-**Today's Progress:** A programs in Python, from codechef.
+**Today's Progress:** A program in Python, from codechef.
 
 **Links to work:**[Ceil and a-b problem__](https://www.codechef.com/problems/CIELAB)
 [My SOlution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/Ciel_and_ab_problem.py)
@@ -454,7 +454,7 @@
 
 ### Day 40: April 26,2018
 
-**Today's Progress:** A programs in Python, from codechef.
+**Today's Progress:** A program in Python, from codechef.
 
 **Links to work:**[Processing a string__](https://www.codechef.com/problems/KOL15A)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/Processing_a_string.py)
@@ -464,7 +464,7 @@
 
 ### Day 41: April 27,2018
 
-**Today's Progress:** A programs in Python, from codechef.
+**Today's Progress:** A program in Python, from codechef.
 
 **Links to work:**[Bear and candies 123__](https://www.codechef.com/problems/CANDY123)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Bear_and_candies123.py)
@@ -474,7 +474,7 @@
 
 ### Day 42: April 28,2018
 
-**Today's Progress:** A programs in Python, from codechef.
+**Today's Progress:** A program in Python, from codechef.
 
 **Links to work:**[Little elephant and permutation__](https://www.codechef.com/problems/LEPERMUT)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/Little_Elephant_and_permutation.py)
@@ -485,7 +485,7 @@
 
 ### Day 43: April 29,2018
 
-**Today's Progress:** A programs in Python, from codechef.
+**Today's Progress:** A program in Python, from codechef.
 
 **Links to work:**[Minimum Good Permutations__](https://www.codechef.com/problems/MINPERM)
 [My SOlution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/Minimum_good_permutation.py)
@@ -496,7 +496,7 @@
 
 ### Day 44: April 30,2018
 
-**Today's Progress:** A programs in Python, from codechef.
+**Today's Progress:** A program in Python, from codechef.
 
 **Links to work:**[Forgotten Language__](https://www.codechef.com/problems/FRGTNLNG)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Forgotten_language.py)
@@ -506,7 +506,7 @@
 
 ### Day 45: May 1,2018
 
-**Today's Progress:** A programs in Python, from codechef.
+**Today's Progress:** 2 programs in Python, from codechef.
 
 **Links to work:**[Valid Triangles__](https://www.codechef.com/problems/FLOW013)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Valid_triangles.py)
@@ -519,7 +519,7 @@
 
 ### Day 46: May 2,2018
 
-**Today's Progress:** A programs in Python, from codechef.
+**Today's Progress:** 2 programs in Python, from codechef.
 
 **Links to work:**[Sum of digits__](https://www.codechef.com/problems/FLOW006)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Sum_of_digits.py)
@@ -532,7 +532,7 @@
 
 ### Day 47: May 3,2018
 
-**Today's Progress:** A programs in Python, from codechef.
+**Today's Progress:** A program in Python, from codechef.
 
 **Links to work:**[Kitchen Timetable__](https://www.codechef.com/problems/KTTABLE)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Ktchen_timetable.py)
@@ -542,7 +542,7 @@
 
 ### Day 48: May 4,2018
 
-**Today's Progress:** A programs in Python, from codechef.
+**Today's Progress:** A program in Python, from codechef.
 
 **Links to work:**[Download File__](https://www.codechef.com/problems/DWNLD)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Download_file.py)
@@ -553,7 +553,29 @@
 
 ### Day 49: May 5,2018
 
-**Today's Progress:** A programs in Python, from codechef.
+**Today's Progress:** A program in Python, from codechef.
 
 **Links to work:**[Help lost Robot](https://www.codechef.com/problems/ICPC16A)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Help_lost_robot.py)
+
+
+
+
+### Day 50: May 6,2018
+
+**Today's Progress:** 2 programs in Python, from codechef.
+
+**Links to work:**[Tanu and head-bob__](https://www.codechef.com/problems/HEADBOB)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Tanu_and_headbob.py)
+[TWO vs TEN](https://www.codechef.com/problems/TWOVSTEN)
+[My SOlution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/TWO_VS_TEN.py)
+
+
+
+
+### Day 51: May 7,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**[Devu and friendship test__](https://www.codechef.com/problems/CFRTEST)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Devu_and_friendship_testing.py)
