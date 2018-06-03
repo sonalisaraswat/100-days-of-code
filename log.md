@@ -612,3 +612,14 @@
 
 **Links to work:**[Brackets__](https://www.codechef.com/problems/BRACKETS)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Brackets.py)
+
+
+
+
+
+### Day 55: May 11,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**[Piece_of_cake__](https://www.codechef.com/problems/LCH15JAB)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Piece_of_cake.py)
