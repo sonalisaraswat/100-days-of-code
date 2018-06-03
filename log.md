@@ -623,3 +623,13 @@
 
 **Links to work:**[Piece_of_cake__](https://www.codechef.com/problems/LCH15JAB)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Piece_of_cake.py)
+
+
+
+
+### Day 56: May 12,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**[Chef and his students__](https://www.codechef.com/problems/CHEFSTUD)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Chef_and_his_students.py)
