@@ -602,3 +602,13 @@
 
 **Links to work:**[Distinct characters subsequence](https://www.codechef.com/problems/DISCHAR)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/Distinct_characters_subsequence.py)
+
+
+
+
+### Day 54: May 10,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**[Brackets__](https://www.codechef.com/problems/BRACKETS)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Brackets.py)
