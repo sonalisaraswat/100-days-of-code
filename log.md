@@ -655,3 +655,14 @@
 
 **Links to work:**[Coins and triangles__](https://www.codechef.com/problems/TRICOIN)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Coins_and_triangles.py)
+
+
+
+
+
+### Day 59: May 15,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**[Three way communication__](https://www.codechef.com/problems/COMM3)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Three_way_communication.py)
