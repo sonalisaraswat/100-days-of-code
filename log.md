@@ -644,3 +644,14 @@
 
 **Links to work:**[Chef and employement_test__](https://www.codechef.com/problems/CK87MEDI)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Chef_and_employement_test.py)
+
+
+
+
+
+### Day 57: May 13,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**[Coins and triangles__](https://www.codechef.com/problems/TRICOIN)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Coins_and_triangles.py)
