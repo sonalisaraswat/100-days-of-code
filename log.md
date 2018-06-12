@@ -691,3 +691,14 @@
 
 **Links to work:**[Fibonacci String__](https://www.codechef.com/problems/CLFIBD)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Fibnocci_string.py)
+
+
+
+
+
+### Day 62: May 18,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**[Snack Up__]https://www.codechef.com/problems/SNACKUP)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/SnackUp.py)
