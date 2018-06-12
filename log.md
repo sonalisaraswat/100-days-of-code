@@ -700,5 +700,5 @@
 
 **Today's Progress:** A program in Python, from codechef.
 
-**Links to work:**[Snack Up__]https://www.codechef.com/problems/SNACKUP)
+**Links to work:**[Snack Up__](https://www.codechef.com/problems/SNACKUP)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/SnackUp.py)
