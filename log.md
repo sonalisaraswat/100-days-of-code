@@ -794,8 +794,8 @@
 
 **Today's Progress:** A program in Python, from codechef.
 
-**Links to work:**
-
+**Links to work:**[Farmer Feb__](https://www.codechef.com/problems/POTATOES)
+[My solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/Farmer_Feb.py)
 
 
 
