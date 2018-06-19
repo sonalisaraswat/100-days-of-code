@@ -998,3 +998,88 @@
 **Today's Progress:** A program in Python, from codechef.
 
 **Links to work:**
+
+
+
+
+
+### Day 93: June 18,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+
+
+
+### Day 94: June 19,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+
+
+
+### Day 95: June 20,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+
+
+
+
+### Day 96: June 21,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+
+
+### Day 97: June 22,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+
+
+### Day 98: June 23,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+
+
+
+### Day 99: June 24,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+
+
+### Day 100: June 25,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
