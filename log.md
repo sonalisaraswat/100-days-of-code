@@ -771,7 +771,8 @@
 
 **Today's Progress:** A program in Python, from codechef.
 
-**Links to work:**
+**Links to work:**[Safe robot__](https://www.codechef.com/problems/ROBOTG)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/Safe_robot.py)
 
 
 
@@ -780,7 +781,8 @@
 
 **Today's Progress:** A program in Python, from codechef.
 
-**Links to work:**
+**Links to work:**[Shortest path in Binary Tree](https://www.codechef.com/problems/BINTREE)
+[My solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/Shortest_path_in_binary_tree.py)
 
 
 
