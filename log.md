@@ -732,7 +732,8 @@
 
 **Today's Progress:** A program in Python, from codechef.
 
-**Links to work:**
+**Links to work:**[Reversing_directions__](https://www.codechef.com/problems/DIRECTI)
+[My solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/Reversing_directions.py)
 
 
 
@@ -742,7 +743,8 @@
 
 **Today's Progress:** A program in Python, from codechef.
 
-**Links to work:**
+**Links to work:**[Longest common pattern__](https://www.codechef.com/problems/LCPESY)
+[My solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/Longest_common_pattern.py)
 
 
 
