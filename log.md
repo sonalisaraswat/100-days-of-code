@@ -754,7 +754,8 @@
 
 **Today's Progress:** A program in Python, from codechef.
 
-**Links to work:**
+**Links to work:**[Dividing Stamps__](https://www.codechef.com/problems/DIVIDING)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/Dividing_stamps.py)
 
 
 
@@ -763,7 +764,8 @@
 
 **Today's Progress:** A program in Python, from codechef.
 
-**Links to work:**
+**Links to work:**[Jewels and stones__](https://www.codechef.com/problems/STONES)
+[My solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/Jewels_and_stones.py)
 
 
 
