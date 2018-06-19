@@ -724,3 +724,271 @@
 
 **Links to work:**[Chef and Subset__](https://www.codechef.com/problems/CHEFSETC)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/Chef_and_subset.py)
+
+
+
+
+### Day 65: May 21,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+
+
+### Day 66: May 22,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+
+
+### Day 67: May 23,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+
+### Day 68: May 24,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+### Day 69: May 25,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+
+### Day 70: May 26,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+
+
+### Day 71: May 27,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+
+
+### Day 72: May 28,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+
+
+
+### Day 73: May 29,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+
+
+### Day 74: May 30,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+
+
+### Day 75: May 31,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+
+
+### Day 76: June 1,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+
+
+### Day 77: June 2,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+
+### Day 78: June 3,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+
+
+### Day 79: June 4,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+
+
+### Day 80: June 5,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+
+
+### Day 81: June 6,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+### Day 82: June 7,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+
+
+### Day 83: June 8,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+
+
+### Day 84: June 9,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+
+
+### Day 85: June 10,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+
+### Day 86: June 11,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+
+
+### Day 87: June 12,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+
+
+### Day 88: June 13,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+
+### Day 89: June 14,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+
+### Day 90: June 15,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+
+### Day 91:June 16,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
+
+
+
+
+### Day 92: June 17,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**
