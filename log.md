@@ -714,3 +714,13 @@
 
 **Links to work:**[Transform_the_expression__](https://www.codechef.com/problems/ONP)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Transform_the_expression.py)
+
+
+
+
+### Day 64: May 20,2018
+
+**Today's Progress:** A program in Python, from codechef.
+
+**Links to work:**[Chef and Subset__](https://www.codechef.com/problems/CHEFSETC)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/Chef_and_subset.py)
