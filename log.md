@@ -827,7 +827,8 @@
 
 **Today's Progress:** A program in Python, from codechef.
 
-**Links to work:**
+**Links to work:**[Cats and Dogs___](https://www.codechef.com/problems/CATSDOGS)
+[My solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Cats_and_Dogs.py)
 
 
 
