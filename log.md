@@ -816,7 +816,8 @@
 
 **Today's Progress:** A program in Python, from codechef.
 
-**Links to work:**
+**Links to work:**[Trace of Matrix__](https://www.codechef.com/problems/TRACE)
+[My solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Trace_of_matrix.py)
 
 
 
