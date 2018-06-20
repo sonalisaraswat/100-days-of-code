@@ -838,7 +838,8 @@
 
 **Today's Progress:** A program in Python, from codechef.
 
-**Links to work:**
+**Links to work:**[Palindromic substring__](https://www.codechef.com/problems/STRPALIN)
+[My solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Palindromic%20substring.py)
 
 
 
