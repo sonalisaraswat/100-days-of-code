@@ -902,7 +902,8 @@
 
 **Today's Progress:** A program in Python, from codechef.
 
-**Links to work:**
+**Links to work:**[Code Crazy Minions__](https://www.codechef.com/problems/NOCODING)
+[My solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/Code_Crazy_minions.py)
 
 
 
