@@ -944,7 +944,8 @@
 
 **Today's Progress:** A program in Python, from codechef.
 
-**Links to work:**
+**Links to work:**[Nuclear reactor__](https://www.codechef.com/problems/NUKES)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/Nuclear_reactors.py)
 
 
 
