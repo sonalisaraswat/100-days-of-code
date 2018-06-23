@@ -954,7 +954,8 @@
 
 **Today's Progress:** A program in Python, from codechef.
 
-**Links to work:**
+**Links to work:**[The lead game__](https://www.codechef.com/problems/TLG)
+[My solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/The_Lead_Game.py)
 
 
 
