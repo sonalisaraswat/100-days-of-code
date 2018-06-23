@@ -986,7 +986,8 @@
 
 **Today's Progress:** A program in Python, from codechef.
 
-**Links to work:**
+**Links to work:**[Sums in a Triangle__](https://www.codechef.com/problems/SUMTRIAN)
+[My solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Sums%20in%20a%20triangle.py)
 
 
 
