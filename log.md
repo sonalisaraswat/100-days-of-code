@@ -1016,7 +1016,8 @@
 
 **Today's Progress:** A program in Python, from codechef.
 
-**Links to work:**
+**Links to work:**[Discrepancies in the Voters List__](https://www.codechef.com/problems/VOTERS)
+[My solutrion](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/Discrepancies_in_the_Voters_List.py)
 
 
 
