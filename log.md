@@ -1062,9 +1062,12 @@
 
 ### Day 97: June 22,2018
 
-**Today's Progress:** A program in Python, from codechef.
+**Today's Progress:**Started Learning JavaScript from [Free Code Camp](https://www.freecodecamp.org/)
 
-**Links to work:**
+**Links to work:**[1.Comments](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comment-your-javascript-code)
+[2.Declaring Variable](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/declare-javascript-variables)
+[3.Assignment of value](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/storing-values-with-the-assignment-operator)
+[4.]()
 
 
 
