@@ -976,7 +976,8 @@
 
 **Today's Progress:** A program in Python, from codechef.
 
-**Links to work:**
+**Links to work:**[Ambiguous Permutation__](https://www.codechef.com/problems/PERMUT2)
+[My solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Ambiguous_permutation.py)
 
 
 
