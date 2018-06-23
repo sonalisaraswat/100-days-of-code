@@ -1006,7 +1006,8 @@
 
 **Today's Progress:** A program in Python, from codechef.
 
-**Links to work:**
+**Links to work:**[Chef and feedback__](https://www.codechef.com/problems/ERROR)
+[My solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Easy/Chef%20and%20feedback.py)
 
 
 
