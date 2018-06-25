@@ -1039,7 +1039,8 @@
 
 **Today's Progress:** A program in Python, from codechef.
 
-**Links to work:**
+**Links to work:**[Greedy Puppy__](https://www.codechef.com/problems/GDOG)
+[My solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Greedy_Puppy.py)
 
 
 
@@ -1050,7 +1051,8 @@
 
 **Today's Progress:** A program in Python, from codechef.
 
-**Links to work:**
+**Links to work:**[Gross_Salary__](https://www.codechef.com/problems/FLOW011)
+[My solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Gross%20Salary.py)
 
 
 
@@ -1062,7 +1064,8 @@
 
 **Today's Progress:** A program in Python, from codechef.
 
-**Links to work:**
+**Links to work:**[Total Expenses__](https://www.codechef.com/problems/FLOW009)
+[My solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Total%20Expenses.py)
 
 
 
