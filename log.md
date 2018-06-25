@@ -1185,3 +1185,6 @@
 
 [Studying Alphabets__](https://www.codechef.com/problems/ALPHABET)
 [My solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Studying%20Alphabets.py)
+
+[Chef and String__](https://www.codechef.com/problems/CHRL2)
+[My solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Chef%20and%20String.py)
