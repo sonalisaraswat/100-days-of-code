@@ -1155,11 +1155,13 @@
 
 
 
+
 ### Day 99: June 24,2018
 
 **Today's Progress:** A program in Python, from codechef.
 
-**Links to work:**
+**Links to work:**[Chef and coloring__](https://www.codechef.com/problems/COLOR)
+[My solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Chef%20and%20Coloring.py)
 
 
 
