@@ -1163,6 +1163,11 @@
 **Links to work:**[Chef and coloring__](https://www.codechef.com/problems/COLOR)
 [My solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Chef%20and%20Coloring.py)
 
+[Chef and digits of a number__](https://www.codechef.com/problems/LONGSEQ)
+[My solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Chef%20and%20digits%20of%20a%20number.py)
+
+[Chef and Wildcard Matching__](https://www.codechef.com/problems/TWOSTR)
+[My solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Chef%20and%20wildcard%20matching.py)
 
 
 
