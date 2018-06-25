@@ -1177,4 +1177,5 @@
 
 **Today's Progress:** A program in Python, from codechef.
 
-**Links to work:**
+**Links to work:**[Movie Weekend__](https://www.codechef.com/problems/MOVIEWKN)
+[My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Movie%20Weekend.py)
