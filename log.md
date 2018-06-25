@@ -1179,3 +1179,6 @@
 
 **Links to work:**[Movie Weekend__](https://www.codechef.com/problems/MOVIEWKN)
 [My Solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Movie%20Weekend.py)
+
+[Devu and Grapes__](https://www.codechef.com/problems/DEVUGRAP)
+[My solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Devu%20and%20Grapes.py)
