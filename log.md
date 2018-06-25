@@ -1182,3 +1182,6 @@
 
 [Devu and Grapes__](https://www.codechef.com/problems/DEVUGRAP)
 [My solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Devu%20and%20Grapes.py)
+
+[Studying Alphabets__](https://www.codechef.com/problems/ALPHABET)
+[My solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Studying%20Alphabets.py)
