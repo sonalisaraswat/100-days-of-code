@@ -1169,7 +1169,8 @@
 [Chef and Wildcard Matching__](https://www.codechef.com/problems/TWOSTR)
 [My solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Chef%20and%20wildcard%20matching.py)
 
-
+[Chef and Fruits__](https://www.codechef.com/problems/FRUITS)
+[My solution](https://github.com/sonalisaraswat/My-Programs/blob/master/code_chef_programs/Beginner/Chef%20and%20Fruits.py)
 
 
 ### Day 100: June 25,2018
